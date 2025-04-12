@@ -1,5 +1,5 @@
 ## Olá! Eu sou Vitória Elizangela
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaeliza78&show_icons=true&theme=dracula)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaeliza78&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitoriaeliza78&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 - 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking estágio na área de desenvolvimento
